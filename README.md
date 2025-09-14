@@ -7,3 +7,5 @@ enemy:
 
 music:
 	December rain (https://pixabay.com/th/)
+
+background: country side road seamless by hat_my_guy (https://poly.pizza/m/eEvVroGmIi)
